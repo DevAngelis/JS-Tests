@@ -3,6 +3,7 @@ retorno da função deverá ser o inverso. Por exemplo, se a entrada for false, 
 numérico, o retorno será o número inverso. Por exemplo, se for fornecido 1, o retorno será 1. Se o parâmetro de 
 entrada não for de nenhum dos tipo acima, retorne "booleano ou número esperados, mas o parâmetro é do tipo ...".*/
 
+//DevAngelis Resolution
 function inverso(valor) {
     const parametro = typeof valor
     if( parametro == "boolean")
@@ -17,6 +18,8 @@ inverso(true)
 inverso("6")
 inverso(-2000)
 inverso("programação") 
+
+//Cod3r(teatcher) Resolution
 
 function inverso2(valor2) {
     const tipo = typeof valor2
