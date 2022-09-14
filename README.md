@@ -1,2 +1,2 @@
 # JS-Tests
-Activities solved in the study of JavaScript
+Activities solved by me in JavaScript study
